@@ -1,1 +1,1 @@
-# ds-eco
+# data-science-ecosystem-notebook
